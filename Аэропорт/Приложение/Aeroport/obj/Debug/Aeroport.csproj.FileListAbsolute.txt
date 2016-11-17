@@ -1,0 +1,13 @@
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\bin\Debug\Aeroport.exe.config
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\bin\Debug\Aeroport.exe
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\bin\Debug\Aeroport.pdb
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.csprojResolveAssemblyReference.cache
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.Form1.resources
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.Properties.Resources.resources
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.ShowVoyages.resources
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.csproj.GenerateResource.Cache
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.exe
+c:\users\xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.pdb
+C:\Users\Xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.Admin.resources
+C:\Users\Xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.Kassir.resources
+C:\Users\Xomys\documents\visual studio 2012\Projects\Aeroport\Aeroport\obj\Debug\Aeroport.ShowTickets.resources
